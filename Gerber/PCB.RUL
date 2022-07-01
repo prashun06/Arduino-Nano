@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\confid\C++Python\Altium\Arduino nano\Arduino nano\PCB.PcbDoc
+RuleKind=Width|RuleName=Powers|Scope=Board|Minimum=15.75
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
